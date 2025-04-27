@@ -18,7 +18,7 @@ DishCraft is a modern AI-powered web app that generates personalized recipes for
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/DishCraft.git`
+1. Clone the repository: `git clone https://github.com/armanmulani/DishCraft.git`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
